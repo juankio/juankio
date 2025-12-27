@@ -15,7 +15,7 @@
 ---
 
 ## 🧠 Tecnologías
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,vue,nuxt,nodejs,express,mongodb,postgres,tailwind,bootstrap,git,github,docker,postman,vscode&perline=10)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,vue,nuxt,nodejs,express,mongodb,tailwind,bootstrap,git,github,postman,vscode&perline=10)
 
 ---
 
