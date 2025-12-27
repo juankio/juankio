@@ -1,4 +1,4 @@
-# Hola 👋 soy Juan Miguel Ruiz Supelano (Migue)
+# Hola 👋 soy Juan Miguel Ruiz Supelano 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Nuxt+3+%7C+Vue+3+%7C+Node.js;Construyendo+productos+web+reales)
 
