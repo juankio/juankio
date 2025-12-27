@@ -20,7 +20,6 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juankio&show_icons=true&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juankio&theme=radical&hide_border=true)
 
