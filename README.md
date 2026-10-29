@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="540" alt="Juan Miguel Ruiz, desarrollador web">
 
-*Construyendo productos web reales*
+*Construyendo productos reales*
 
 </div>
 
