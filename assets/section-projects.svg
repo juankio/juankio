@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1030" viewBox="0 0 1000 1030" role="img" aria-labelledby="prj-t prj-d">
+  <title id="prj-t">Proyectos destacados</title>
+  <desc id="prj-d">Discord Party Hub, Cine al Parque, Contabilidad y Simulador ESP32</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E11D48"/>
+      <stop offset="1" stop-color="#E11D48" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#30363d"/>
+    </pattern>
+  </defs>
+  <style>
+    .sans { font-family: "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
+    .rise { opacity: 0; animation: rise 0.5s ease forwards; }
+    .ln { opacity: 0; animation: fadein 0.2s ease forwards; }
+    .card { opacity: 0; animation: rise 0.3s ease forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @keyframes fadein { to { opacity: 1; } }
+  </style>
+
+  <rect width="1000" height="1030" fill="url(#bg)"/>
+  <rect width="1000" height="1030" fill="url(#grid)" opacity="0.35"/>
+
+  <text x="60" y="66" class="sans rise" font-size="36" font-weight="700" fill="#e6edf3" style="animation-delay: 0s">Proyectos destacados</text>
+  <rect x="60" y="82" width="64" height="3" rx="1.5" fill="url(#bar)" class="ln" style="animation-delay: 0.2s"/>
+  <text x="60" y="124" class="mono ln" font-size="36" fill="#6e7681" style="animation-delay: 0.2s">proyectos desplegados</text>
+
+  <g class="card" style="animation-delay: 0.2s">
+    <rect x="60" y="140" width="880" height="196" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="84" y="196" class="sans" font-size="36" font-weight="700" fill="#e6edf3">Discord Party Hub</text>
+    <text x="84" y="244" class="sans" font-size="36" fill="#8b949e">Hub multijugador en tiempo real · UNO</text>
+    <rect x="84" y="264" width="147" height="48" rx="24" fill="#0d1117" stroke="#30363d"/>
+    <text x="157.5" y="296" text-anchor="middle" class="mono" font-size="36" fill="#c9d1d9">Nuxt 3</text>
+    <rect x="243" y="264" width="127" height="48" rx="24" fill="#0d1117" stroke="#30363d"/>
+    <text x="306.5" y="296" text-anchor="middle" class="mono" font-size="36" fill="#c9d1d9">Vue 3</text>
+    <rect x="382" y="264" width="206" height="48" rx="24" fill="#0d1117" stroke="#30363d"/>
+    <text x="485" y="296" text-anchor="middle" class="mono" font-size="36" fill="#c9d1d9">Socket.io</text>
+    <rect x="600" y="264" width="167" height="48" rx="24" fill="#0d1117" stroke="#30363d"/>
+    <text x="683.5" y="296" text-anchor="middle" class="mono" font-size="36" fill="#c9d1d9">MongoDB</text>
+  </g>
+
+  <g class="card" style="animation-delay: 0.35s">
+    <rect x="60" y="362" width="880" height="196" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="84" y="418" class="sans" font-size="36" font-weight="700" fill="#e6edf3">Cine al Parque</text>
+    <text x="84" y="466" class="sans" font-size="36" fill="#8b949e">Cartelera, asientos en vivo y reservas</text>
+    <rect x="84" y="486" width="88" height="48" rx="24" fill="#0d1117" stroke="#30363d"/>
+    <text x="128" y="518" text-anchor="middle" class="mono" font-size="36" fill="#c9d1d9">Vue</text>
+    <rect x="184" y="486" width="226" height="48" rx="24" fill="#0d1117" stroke="#30363d"/>
+    <text x="297" y="518" text-anchor="middle" class="mono" font-size="36" fill="#c9d1d9">TypeScript</text>
+  </g>
+
+  <g class="card" style="animation-delay: 0.5s">
+    <rect x="60" y="584" width="880" height="196" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="84" y="640" class="sans" font-size="36" font-weight="700" fill="#e6edf3">Contabilidad</text>
+    <text x="84" y="688" class="sans" font-size="36" fill="#8b949e">Registro y administración de finanzas</text>
+    <rect x="84" y="708" width="88" height="48" rx="24" fill="#0d1117" stroke="#30363d"/>
+    <text x="128" y="740" text-anchor="middle" class="mono" font-size="36" fill="#c9d1d9">Vue</text>
+    <rect x="184" y="708" width="226" height="48" rx="24" fill="#0d1117" stroke="#30363d"/>
+    <text x="297" y="740" text-anchor="middle" class="mono" font-size="36" fill="#c9d1d9">TypeScript</text>
+  </g>
+
+  <g class="card" style="animation-delay: 0.65s">
+    <rect x="60" y="806" width="880" height="196" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="84" y="862" class="sans" font-size="36" font-weight="700" fill="#e6edf3">Simulador ESP32</text>
+    <text x="84" y="910" class="sans" font-size="36" fill="#8b949e">Simulador interactivo de circuitos</text>
+    <rect x="84" y="930" width="186" height="48" rx="24" fill="#0d1117" stroke="#30363d"/>
+    <text x="177" y="962" text-anchor="middle" class="mono" font-size="36" fill="#c9d1d9">Hardware</text>
+    <rect x="282" y="930" width="88" height="48" rx="24" fill="#0d1117" stroke="#30363d"/>
+    <text x="326" y="962" text-anchor="middle" class="mono" font-size="36" fill="#c9d1d9">Vue</text>
+  </g>
+</svg>

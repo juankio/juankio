@@ -1,24 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130" role="img" aria-labelledby="ftr-t ftr-d">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="176" viewBox="0 0 1000 176" role="img" aria-labelledby="ftr-t ftr-d">
   <title id="ftr-t">Gracias por pasar</title>
   <desc id="ftr-d">Taza de café con vapor animado</desc>
   <style>
     .sans { font-family: "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
-    .rise { opacity: 0; animation: rise 0.9s ease forwards; }
-    .cup { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1.4s ease 0.2s forwards; }
-    .steam { stroke-dasharray: 1; stroke-dashoffset: 1; animation: steam 2.6s ease-in-out infinite; }
+    .rise { opacity: 0; animation: rise 0.35s ease forwards; }
+    .cup { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 0.6s ease 0s forwards; }
+    .steam { stroke-dasharray: 1; stroke-dashoffset: 1; animation: steam 3s ease-in-out infinite; }
     .steam.b { animation-delay: 0.9s; }
     @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
     @keyframes draw { to { stroke-dashoffset: 0; } }
     @keyframes steam { 0% { stroke-dashoffset: 1; opacity: 0; } 35% { opacity: 0.9; } 100% { stroke-dashoffset: 0; opacity: 0; } }
   </style>
-  <rect width="1000" height="130" fill="#0d1117"/>
-  <g fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="1000" height="176" fill="#0d1117"/>
+  <g fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(0 8)">
     <path d="M487 30 H509 V44 A10 10 0 0 1 499 54 H497 A10 10 0 0 1 487 44 Z" stroke="#8b949e" pathLength="1" class="cup"/>
     <path d="M509 34 H514 A6 6 0 0 1 514 46 H509" stroke="#8b949e" pathLength="1" class="cup"/>
     <path d="M478 58 H522" stroke="#E11D48" pathLength="1" class="cup"/>
     <path d="M493 22 Q489 17 493 12 Q497 7 493 2" stroke="#E11D48" pathLength="1" class="steam"/>
     <path d="M503 22 Q499 17 503 12 Q507 7 503 2" stroke="#E11D48" pathLength="1" class="steam b"/>
   </g>
-  <text x="500" y="98" text-anchor="middle" class="sans rise" font-size="24" font-weight="600" fill="#e6edf3" style="animation-delay: 0.9s">Gracias por pasar</text>
-  <text x="500" y="120" text-anchor="middle" class="sans rise" font-size="13" fill="#6e7681" style="animation-delay: 1.2s">juanmiguelruiz.lat</text>
+  <text x="500" y="114" text-anchor="middle" class="sans rise" font-size="36" font-weight="600" fill="#e6edf3" style="animation-delay: 0.5s">Gracias por pasar</text>
+  <text x="500" y="156" text-anchor="middle" class="sans rise" font-size="36" fill="#6e7681" style="animation-delay: 0.7s">juanmiguelruiz.lat</text>
 </svg>
