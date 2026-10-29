@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Juan Miguel Ruiz — Fullstack Developer · Nuxt 3 · Vue · NestJS">
+<img src="assets/header.svg" width="540" alt="Juan Miguel Ruiz — Fullstack Developer · Nuxt 3 · Vue · NestJS">
 
 Tecnólogo en Desarrollo de Software · Estudiante de Ingeniería de Sistemas · Colombia
 
@@ -19,7 +19,7 @@ Tecnólogo en Desarrollo de Software · Estudiante de Ingeniería de Sistemas ·
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<img src="assets/section-stack.svg" width="100%" alt="Stack: Vue, Nuxt, TypeScript, Tailwind, NestJS, MongoDB, Socket.io y Zod">
+<img src="assets/section-stack.svg" width="540" alt="Stack: Vue, Nuxt, TypeScript, Tailwind, NestJS, MongoDB, Socket.io y Zod">
 
 **Frontend**
 
@@ -48,7 +48,7 @@ Tecnólogo en Desarrollo de Software · Estudiante de Ingeniería de Sistemas ·
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<img src="assets/section-projects.svg" width="100%" alt="Proyectos destacados: Discord Party Hub, Cine al Parque, Contabilidad y Simulador ESP32">
+<img src="assets/section-projects.svg" width="540" alt="Proyectos destacados: Discord Party Hub, Cine al Parque, Contabilidad y Simulador ESP32">
 
 - **Discord Party Hub:** [Demo](https://discord-party-hub.vercel.app) · [Frontend](https://github.com/juankio/discord-party-hub) · [Backend](https://github.com/juankio/discord-party-hub-backend)
 - **Cine al Parque:** [Demo](https://cine-parque.vercel.app) · [Repositorio](https://github.com/juankio/cine-al-parque-)
@@ -57,7 +57,7 @@ Tecnólogo en Desarrollo de Software · Estudiante de Ingeniería de Sistemas ·
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<img src="assets/section-stats.svg" width="100%" alt="GitHub Stats">
+<img src="assets/section-stats.svg" width="540" alt="GitHub Stats">
 
 ![Racha de contribuciones](https://streak-stats.demolab.com?user=juankio&theme=radical&hide_border=true)
 
@@ -65,13 +65,13 @@ Tecnólogo en Desarrollo de Software · Estudiante de Ingeniería de Sistemas ·
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<img src="assets/section-contact.svg" width="100%" alt="Contacto: correo, sitio web y ubicación en Colombia">
+<img src="assets/section-contact.svg" width="540" alt="Contacto: correo, sitio web y ubicación en Colombia">
 
 [![Email](https://img.shields.io/badge/Email-juanmiguelruizsupe%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanmiguelruizsupe@gmail.com)
 [![Web](https://img.shields.io/badge/Web-juanmiguelruiz.lat-E11D48?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juanmiguelruiz.lat)
 
 <div align="center">
 
-<img src="assets/footer.svg" width="100%" alt="Gracias por pasar">
+<img src="assets/footer.svg" width="540" alt="Gracias por pasar">
 
 </div>
