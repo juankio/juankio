@@ -48,10 +48,10 @@ Tecnólogo en Desarrollo de Software · Estudiante de Ingeniería de Sistemas ·
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-**Discord Party Hub:** [Demo](https://discord-party-hub.vercel.app) · [Frontend](https://github.com/juankio/discord-party-hub) · [Backend](https://github.com/juankio/discord-party-hub-backend)
-**Cine al Parque:** [Demo](https://cine-parque.vercel.app) · [Repositorio](https://github.com/juankio/cine-al-parque-)
-**Contabilidad:** [Demo](https://contabilidad-seven.vercel.app) · [Repositorio](https://github.com/juankio/contabilidad)
-**Simulador ESP32:** [Demo](https://simulador-esp32.vercel.app) · [Repositorio](https://github.com/juankio/simulador-esp32)
+- **Discord Party Hub:** [Demo](https://discord-party-hub.vercel.app) · [Frontend](https://github.com/juankio/discord-party-hub) · [Backend](https://github.com/juankio/discord-party-hub-backend)
+- **Cine al Parque:** [Demo](https://cine-parque.vercel.app) · [Repositorio](https://github.com/juankio/cine-al-parque-)
+- **Contabilidad:** [Demo](https://contabilidad-seven.vercel.app) · [Repositorio](https://github.com/juankio/contabilidad)
+- **Simulador ESP32:** [Demo](https://simulador-esp32.vercel.app) · [Repositorio](https://github.com/juankio/simulador-esp32)
 
 <img src="assets/section-projects.svg" width="100%" alt="Proyectos destacados: Discord Party Hub, Cine al Parque, Contabilidad y Simulador ESP32">
 
