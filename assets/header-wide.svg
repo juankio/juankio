@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1537" height="420" viewBox="0 0 1537 420" role="img" aria-labelledby="hdr-t hdr-d">
+  <title id="hdr-t">Juan Miguel Ruiz</title>
+  <desc id="hdr-d">Fullstack Developer · Desarrollo web integral</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="wave" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1537" y2="0">
+      <stop offset="0" stop-color="#E11D48" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E11D48"/>
+      <stop offset="1" stop-color="#E11D48" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#30363d"/>
+    </pattern>
+    <clipPath id="reveal">
+      <rect x="70" y="78" width="0" height="96">
+        <animate attributeName="width" values="0;720" keyTimes="0;1" calcMode="spline" keySplines="0.4 0 0.2 1" dur="0.6s" begin="0s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <style>
+    .sans { font-family: "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
+    .rise { opacity: 0; animation: rise 0.35s ease forwards; }
+    .ln { opacity: 0; animation: fadein 0.2s ease forwards; }
+    .blink { animation: blink 2s steps(1) infinite; }
+    .trace { stroke-dasharray: 1 1; stroke-dashoffset: 1; animation: trace 1s cubic-bezier(0.4, 0, 0.2, 1) 0.1s forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @keyframes fadein { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes trace { to { stroke-dashoffset: 0; } }
+  </style>
+
+  <rect width="1537" height="420" fill="url(#bg)"/>
+  <rect width="1537" height="420" fill="url(#grid)" opacity="0.35"/>
+
+  <text x="80" y="150" class="sans" font-size="86" font-weight="700" fill="#e6edf3" textLength="700" lengthAdjust="spacingAndGlyphs" clip-path="url(#reveal)">Juan Miguel Ruiz</text>
+  <rect x="80" y="172" width="0" height="6" rx="3" fill="#E11D48">
+    <animate attributeName="width" values="0;170" keyTimes="0;1" calcMode="spline" keySplines="0.4 0 0.2 1" dur="0.4s" begin="0.6s" fill="freeze"/>
+  </rect>
+  <text x="80" y="232" class="sans rise" font-size="36" fill="#8b949e" style="animation-delay: 0.45s">Fullstack Developer</text>
+  <text x="80" y="276" class="sans rise" font-size="36" fill="#8b949e" style="animation-delay: 0.45s">Desarrollo web integral</text>
+  <text x="80" y="320" class="sans rise" font-size="36" fill="#6e7681" style="animation-delay: 0.6s">Tecnólogo en Desarrollo de Software</text>
+
+  <rect x="1000" y="40" width="460" height="340" rx="16" fill="#161b22" stroke="#30363d"/>
+  <line x1="1000" y1="88" x2="1460" y2="88" stroke="#30363d"/>
+  <circle cx="1028" cy="64" r="7" fill="#E11D48"/>
+  <circle cx="1054" cy="64" r="7" fill="#484f58"/>
+  <circle cx="1080" cy="64" r="7" fill="#484f58"/>
+  <text x="1026" y="136" class="mono ln" font-size="32" fill="#c9d1d9" style="animation-delay: 0.3s"><tspan fill="#E11D48">$</tspan> whoami</text>
+  <text x="1026" y="178" class="mono ln" font-size="32" fill="#c9d1d9" style="animation-delay: 0.36s">fullstack</text>
+  <text x="1026" y="220" class="mono ln" font-size="32" fill="#c9d1d9" style="animation-delay: 0.42s">developer</text>
+  <text x="1026" y="262" class="mono ln" font-size="32" fill="#c9d1d9" style="animation-delay: 0.48s"><tspan fill="#E11D48">$</tspan> ls ./proyectos</text>
+  <text x="1026" y="304" class="mono ln" font-size="32" fill="#c9d1d9" style="animation-delay: 0.54s">4 desplegados</text>
+  <text x="1026" y="346" class="mono ln" font-size="32" fill="#c9d1d9" style="animation-delay: 0.6s">ver abajo</text>
+  <rect x="1210" y="324" width="18" height="26" fill="#E11D48" class="blink" style="animation-delay: 0.9s"/>
+
+  <path d="M0 396 Q192 376 384 396 T768 396 T1152 396 T1536 396" pathLength="1" fill="none" stroke="url(#wave)" stroke-width="2.5" class="trace"/>
+</svg>

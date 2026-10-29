@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/header.svg" width="540" alt="Juan Miguel Ruiz, desarrollador web">
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/header.svg">
+  <img src="assets/header-wide.svg" width="100%" alt="Juan Miguel Ruiz, desarrollador web">
+</picture>
 
 *Construyendo productos reales*
 
@@ -16,7 +19,7 @@ Estudiante de Ingeniería de Sistemas. Me gusta que lo que construyo llegue a pr
 
 <picture>
   <source media="(max-width: 700px)" srcset="assets/section-column.svg">
-  <img src="assets/section-row.svg" width="830" alt="Stack técnico y proyectos destacados">
+  <img src="assets/section-row.svg" width="100%" alt="Stack técnico y proyectos destacados">
 </picture>
 
 **Herramientas**
@@ -30,7 +33,10 @@ Discord&nbsp;Party&nbsp;Hub: [Demo](https://discord-party-hub.vercel.app) · [Fr
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<img src="assets/section-stats.svg" width="540" alt="Estadísticas de GitHub">
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/section-stats.svg">
+  <img src="assets/section-stats-wide.svg" width="100%" alt="Estadísticas de GitHub">
+</picture>
 
 ![Racha de contribuciones](https://streak-stats.demolab.com?user=juankio&theme=radical&hide_border=true)
 
@@ -38,10 +44,16 @@ Discord&nbsp;Party&nbsp;Hub: [Demo](https://discord-party-hub.vercel.app) · [Fr
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<img src="assets/section-contact.svg" width="540" alt="Datos de contacto">
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/section-contact.svg">
+  <img src="assets/section-contact-wide.svg" width="100%" alt="Datos de contacto">
+</picture>
 
 <div align="center">
 
-<img src="assets/footer.svg" width="540" alt="Gracias por pasar">
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/footer.svg">
+  <img src="assets/footer-wide.svg" width="100%" alt="Gracias por pasar">
+</picture>
 
 </div>

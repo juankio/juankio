@@ -45,7 +45,7 @@
   <rect width="800" height="840" fill="url(#grid-s)" opacity="0.35"/>
 
   <g class="rise" style="animation-delay: 0s">
-    <text x="40" y="66" class="sans" font-size="36" font-weight="700" fill="#e6edf3">Stack</text>
+    <text x="40" y="66" class="sans" font-size="38" font-weight="700" fill="#e6edf3">Stack</text>
   </g>
   <rect x="40" y="82" width="64" height="3" rx="1.5" fill="url(#bar-s)" class="ln" style="animation-delay: 0.2s"/>
   <text x="40" y="124" class="mono ln" font-size="36" fill="#6e7681" style="animation-delay: 0.2s">frontend · backend</text>
@@ -58,7 +58,7 @@
       <path d="M0 2 H9 L18 17 L27 2 H36 L18 34 Z" fill="#4FC08D" stroke="none"/>
     </g>
     <text x="132" y="248" class="sans" font-size="36" font-weight="600" fill="#e6edf3">Vue</text>
-    <text x="64" y="302" class="mono" font-size="32" fill="#6e7681">UI reactiva</text>
+    <text x="64" y="302" class="mono" font-size="34" fill="#6e7681">UI reactiva</text>
   </g>
 
   <g class="card" style="animation-delay: 0.35s">
@@ -67,7 +67,7 @@
       <path d="M2 32 L14 8 L21 20 L25 13 L34 32 Z"/>
     </g>
     <text x="502" y="248" class="sans" font-size="36" font-weight="600" fill="#e6edf3">Nuxt</text>
-    <text x="434" y="302" class="mono" font-size="32" fill="#6e7681">Framework SSR</text>
+    <text x="434" y="302" class="mono" font-size="34" fill="#6e7681">Framework SSR</text>
   </g>
 
   <g class="card" style="animation-delay: 0.45s">
@@ -77,7 +77,7 @@
       <text x="26" y="32" text-anchor="middle" class="sans" font-size="36" font-weight="700" fill="#ffffff">TS</text>
     </g>
     <text x="132" y="394" class="sans" font-size="36" font-weight="600" fill="#e6edf3">TypeScript</text>
-    <text x="64" y="448" class="mono" font-size="32" fill="#6e7681">Tipado estático</text>
+    <text x="64" y="448" class="mono" font-size="34" fill="#6e7681">Tipado estático</text>
   </g>
 
   <g class="card" style="animation-delay: 0.55s">
@@ -86,7 +86,7 @@
       <path d="M2 12 Q7 4 13 12 Q18 20 24 12 M12 24 Q17 16 23 24 Q28 32 34 24"/>
     </g>
     <text x="502" y="394" class="sans" font-size="36" font-weight="600" fill="#e6edf3">Tailwind</text>
-    <text x="434" y="448" class="mono" font-size="32" fill="#6e7681">CSS utilitario</text>
+    <text x="434" y="448" class="mono" font-size="34" fill="#6e7681">CSS utilitario</text>
   </g>
 
   <text x="40" y="516" class="mono ln" font-size="36" fill="#E11D48" style="animation-delay: 0.2s">BACKEND</text>
@@ -98,7 +98,7 @@
       <path d="M12 26 V10 L24 26 V10"/>
     </g>
     <text x="132" y="588" class="sans" font-size="36" font-weight="600" fill="#e6edf3">NestJS</text>
-    <text x="64" y="642" class="mono" font-size="32" fill="#6e7681">APIs modulares</text>
+    <text x="64" y="642" class="mono" font-size="34" fill="#6e7681">APIs modulares</text>
   </g>
 
   <g class="card" style="animation-delay: 0.75s">
@@ -107,7 +107,7 @@
       <path d="M18 2 C24 10 26 16 22 26 L18 34 L14 26 C10 16 12 10 18 2 Z" fill="#47A248"/>
     </g>
     <text x="502" y="588" class="sans" font-size="36" font-weight="600" fill="#e6edf3">MongoDB</text>
-    <text x="434" y="642" class="mono" font-size="32" fill="#6e7681">Base documental</text>
+    <text x="434" y="642" class="mono" font-size="34" fill="#6e7681">Base documental</text>
   </g>
 
   <g class="card" style="animation-delay: 0.85s">
@@ -118,7 +118,7 @@
       <path d="M15 18 H21"/>
     </g>
     <text x="132" y="734" class="sans" font-size="36" font-weight="600" fill="#e6edf3">Socket.io</text>
-    <text x="64" y="788" class="mono" font-size="32" fill="#6e7681">Tiempo real</text>
+    <text x="64" y="788" class="mono" font-size="34" fill="#6e7681">Tiempo real</text>
   </g>
 
   <g class="card" style="animation-delay: 0.95s">
@@ -127,7 +127,7 @@
       <path d="M6 6 H30 L6 30 H30"/>
     </g>
     <text x="502" y="734" class="sans" font-size="36" font-weight="600" fill="#e6edf3">Zod</text>
-    <text x="434" y="788" class="mono" font-size="32" fill="#6e7681">Validación</text>
+    <text x="434" y="788" class="mono" font-size="34" fill="#6e7681">Validación</text>
   </g>
 </g>
   <g transform="translate(800 0)">
@@ -135,7 +135,7 @@
   <rect width="800" height="840" fill="url(#bg-p)"/>
   <rect width="800" height="840" fill="url(#grid-p)" opacity="0.35"/>
 
-  <text x="40" y="66" class="sans rise" font-size="36" font-weight="700" fill="#e6edf3" style="animation-delay: 0s">Proyectos destacados</text>
+  <text x="40" y="66" class="sans rise" font-size="38" font-weight="700" fill="#e6edf3" style="animation-delay: 0s">Proyectos destacados</text>
   <rect x="40" y="82" width="64" height="3" rx="1.5" fill="url(#bar-p)" class="ln" style="animation-delay: 0.2s"/>
   <text x="40" y="124" class="mono ln" font-size="36" fill="#6e7681" style="animation-delay: 0.2s">proyectos desplegados</text>
 
