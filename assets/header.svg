@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="hdr-t hdr-d">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="hdr-t hdr-d">
   <title id="hdr-t">Juan Miguel Ruiz</title>
   <desc id="hdr-d">Fullstack Developer · Nuxt 3 · Vue · NestJS</desc>
   <defs>
@@ -33,26 +33,30 @@
     @keyframes trace { to { stroke-dashoffset: 0; } }
   </style>
 
-  <rect width="1000" height="260" fill="url(#bg)"/>
-  <rect width="1000" height="260" fill="url(#grid)" opacity="0.35"/>
+  <rect width="1000" height="320" fill="url(#bg)"/>
+  <rect width="1000" height="320" fill="url(#grid)" opacity="0.35"/>
 
   <text x="60" y="112" class="sans" font-size="48" font-weight="700" fill="#e6edf3" textLength="500" lengthAdjust="spacingAndGlyphs" clip-path="url(#reveal)">Juan Miguel Ruiz</text>
   <rect x="60" y="130" width="0" height="3" rx="1.5" fill="#E11D48">
     <animate attributeName="width" values="0;90" dur="0.2s" begin="0.6s" fill="freeze"/>
   </rect>
-  <text x="60" y="170" class="sans rise" font-size="19" fill="#8b949e" style="animation-delay: 0.45s">Fullstack Developer · Nuxt 3 · Vue · NestJS</text>
-  <text x="60" y="200" class="sans rise" font-size="14" fill="#6e7681" style="animation-delay: 0.6s">Tecnólogo en Desarrollo de Software · Colombia</text>
+  <text x="60" y="180" class="sans rise" font-size="33" fill="#8b949e" style="animation-delay: 0.45s">Fullstack Developer</text>
+  <text x="60" y="216" class="sans rise" font-size="33" fill="#8b949e" style="animation-delay: 0.45s">Nuxt 3 · Vue · NestJS</text>
+  <text x="60" y="258" class="sans rise" font-size="33" fill="#6e7681" style="animation-delay: 0.6s">Tecnólogo en Desarrollo</text>
+  <text x="60" y="294" class="sans rise" font-size="33" fill="#6e7681" style="animation-delay: 0.6s">de Software · Colombia</text>
 
-  <rect x="620" y="38" width="330" height="184" rx="12" fill="#161b22" stroke="#30363d"/>
-  <line x1="620" y1="70" x2="950" y2="70" stroke="#30363d"/>
-  <circle cx="642" cy="54" r="5" fill="#E11D48"/>
-  <circle cx="660" cy="54" r="5" fill="#484f58"/>
-  <circle cx="678" cy="54" r="5" fill="#484f58"/>
-  <text x="644" y="100" class="mono ln" font-size="14" fill="#c9d1d9" style="animation-delay: 0.3s"><tspan fill="#E11D48">$</tspan> whoami</text>
-  <text x="644" y="126" class="mono ln" font-size="14" fill="#c9d1d9" style="animation-delay: 0.42s">fullstack developer</text>
-  <text x="644" y="152" class="mono ln" font-size="14" fill="#c9d1d9" style="animation-delay: 0.54s"><tspan fill="#E11D48">$</tspan> ls ./stack</text>
-  <text x="644" y="178" class="mono ln" font-size="14" fill="#c9d1d9" style="animation-delay: 0.66s">nuxt vue nestjs mongo</text>
-  <rect x="644" y="192" width="9" height="16" fill="#E11D48" class="blink" style="animation-delay: 0.9s"/>
+  <rect x="604" y="22" width="340" height="276" rx="12" fill="#161b22" stroke="#30363d"/>
+  <line x1="604" y1="54" x2="944" y2="54" stroke="#30363d"/>
+  <circle cx="626" cy="38" r="5" fill="#E11D48"/>
+  <circle cx="644" cy="38" r="5" fill="#484f58"/>
+  <circle cx="662" cy="38" r="5" fill="#484f58"/>
+  <text x="624" y="90" class="mono ln" font-size="33" fill="#c9d1d9" style="animation-delay: 0.3s"><tspan fill="#E11D48">$</tspan> whoami</text>
+  <text x="624" y="126" class="mono ln" font-size="33" fill="#c9d1d9" style="animation-delay: 0.36s">fullstack</text>
+  <text x="624" y="162" class="mono ln" font-size="33" fill="#c9d1d9" style="animation-delay: 0.42s">developer</text>
+  <text x="624" y="198" class="mono ln" font-size="33" fill="#c9d1d9" style="animation-delay: 0.48s"><tspan fill="#E11D48">$</tspan> ls ./stack</text>
+  <text x="624" y="234" class="mono ln" font-size="33" fill="#c9d1d9" style="animation-delay: 0.54s">nuxt vue</text>
+  <text x="624" y="270" class="mono ln" font-size="33" fill="#c9d1d9" style="animation-delay: 0.6s">nestjs mongo</text>
+  <rect x="866" y="248" width="16" height="24" fill="#E11D48" class="blink" style="animation-delay: 0.9s"/>
 
-  <path d="M0 236 Q125 220 250 236 T500 236 T750 236 T1000 236" pathLength="1" fill="none" stroke="url(#wave)" stroke-width="2" class="trace"/>
+  <path d="M0 312 Q125 296 250 312 T500 312 T750 312 T1000 312" pathLength="1" fill="none" stroke="url(#wave)" stroke-width="2" class="trace"/>
 </svg>
