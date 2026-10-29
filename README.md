@@ -14,7 +14,10 @@ Estudiante de Ingeniería de Sistemas. Me gusta que lo que construyo llegue a pr
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<img src="assets/section-stack.svg" width="540" alt="Stack técnico">
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/section-column.svg">
+  <img src="assets/section-row.svg" width="830" alt="Stack técnico y proyectos destacados">
+</picture>
 
 **Herramientas**
 
@@ -22,10 +25,6 @@ Estudiante de Ingeniería de Sistemas. Me gusta que lo que construyo llegue a pr
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juankio)
 [![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-<img src="assets/section-projects.svg" width="540" alt="Proyectos destacados">
 
 Discord&nbsp;Party&nbsp;Hub: [Demo](https://discord-party-hub.vercel.app) · [Frontend](https://github.com/juankio/discord-party-hub) · [Backend](https://github.com/juankio/discord-party-hub-backend) | Cine&nbsp;al&nbsp;Parque: [Demo](https://cine-parque.vercel.app) · [Repositorio](https://github.com/juankio/cine-al-parque-) | Contabilidad: [Demo](https://contabilidad-seven.vercel.app) · [Repositorio](https://github.com/juankio/contabilidad) | Simulador&nbsp;ESP32: [Demo](https://simulador-esp32.vercel.app) · [Repositorio](https://github.com/juankio/simulador-esp32)
 
