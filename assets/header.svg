@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="hdr-t hdr-d">
   <title id="hdr-t">Juan Miguel Ruiz</title>
-  <desc id="hdr-d">Fullstack Developer · Nuxt 3 · Vue · NestJS</desc>
+  <desc id="hdr-d">Fullstack Developer · Desarrollo web integral</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
@@ -41,9 +41,9 @@
     <animate attributeName="width" values="0;90" dur="0.2s" begin="0.6s" fill="freeze"/>
   </rect>
   <text x="60" y="180" class="sans rise" font-size="36" fill="#8b949e" style="animation-delay: 0.45s">Fullstack Developer</text>
-  <text x="60" y="216" class="sans rise" font-size="36" fill="#8b949e" style="animation-delay: 0.45s">Nuxt 3 · Vue · NestJS</text>
+  <text x="60" y="216" class="sans rise" font-size="36" fill="#8b949e" style="animation-delay: 0.45s">Desarrollo web integral</text>
   <text x="60" y="258" class="sans rise" font-size="36" fill="#6e7681" style="animation-delay: 0.6s">Tecnólogo en Desarrollo</text>
-  <text x="60" y="294" class="sans rise" font-size="36" fill="#6e7681" style="animation-delay: 0.6s">de Software · Colombia</text>
+  <text x="60" y="294" class="sans rise" font-size="36" fill="#6e7681" style="animation-delay: 0.6s">de Software</text>
 
   <rect x="604" y="22" width="340" height="276" rx="12" fill="#161b22" stroke="#30363d"/>
   <line x1="604" y1="54" x2="944" y2="54" stroke="#30363d"/>
@@ -53,10 +53,10 @@
   <text x="624" y="90" class="mono ln" font-size="36" fill="#c9d1d9" style="animation-delay: 0.3s"><tspan fill="#E11D48">$</tspan> whoami</text>
   <text x="624" y="126" class="mono ln" font-size="36" fill="#c9d1d9" style="animation-delay: 0.36s">fullstack</text>
   <text x="624" y="162" class="mono ln" font-size="36" fill="#c9d1d9" style="animation-delay: 0.42s">developer</text>
-  <text x="624" y="198" class="mono ln" font-size="36" fill="#c9d1d9" style="animation-delay: 0.48s"><tspan fill="#E11D48">$</tspan> ls ./stack</text>
-  <text x="624" y="234" class="mono ln" font-size="36" fill="#c9d1d9" style="animation-delay: 0.54s">nuxt vue</text>
-  <text x="624" y="270" class="mono ln" font-size="36" fill="#c9d1d9" style="animation-delay: 0.6s">nestjs mongo</text>
-  <rect x="866" y="248" width="16" height="24" fill="#E11D48" class="blink" style="animation-delay: 0.9s"/>
+  <text x="624" y="198" class="mono ln" font-size="33" fill="#c9d1d9" style="animation-delay: 0.48s"><tspan fill="#E11D48">$</tspan> ls ./proyectos</text>
+  <text x="624" y="234" class="mono ln" font-size="36" fill="#c9d1d9" style="animation-delay: 0.54s">4 desplegados</text>
+  <text x="624" y="270" class="mono ln" font-size="36" fill="#c9d1d9" style="animation-delay: 0.6s">ver abajo</text>
+  <rect x="826" y="248" width="16" height="24" fill="#E11D48" class="blink" style="animation-delay: 0.9s"/>
 
   <path d="M0 312 Q125 296 250 312 T500 312 T750 312 T1000 312" pathLength="1" fill="none" stroke="url(#wave)" stroke-width="2" class="trace"/>
 </svg>
