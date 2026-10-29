@@ -41,8 +41,6 @@ Discord&nbsp;Party&nbsp;Hub: [Demo](https://discord-party-hub.vercel.app) · [Fr
 
 <img src="assets/section-contact.svg" width="540" alt="Datos de contacto">
 
-[Correo](mailto:juanmiguelruizsupe@gmail.com) · [Web](https://juanmiguelruiz.lat)
-
 <div align="center">
 
 <img src="assets/footer.svg" width="540" alt="Gracias por pasar">
