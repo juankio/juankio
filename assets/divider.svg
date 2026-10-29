@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="12" viewBox="0 0 1000 12" role="presentation">
+  <defs>
+    <linearGradient id="fade" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0">
+      <stop offset="0" stop-color="#E11D48" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E11D48"/>
+      <stop offset="1" stop-color="#E11D48" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .line { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.2s cubic-bezier(0.4, 0, 0.2, 1) forwards; }
+    .core { opacity: 0; animation: fadein 0.6s ease 2.2s forwards, pulse 3s ease-in-out 2.8s infinite; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes fadein { to { opacity: 1; } }
+    @keyframes pulse { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+  </style>
+  <path d="M0 6 H1000" pathLength="1" fill="none" stroke="url(#fade)" stroke-width="1.5" class="line"/>
+  <circle cx="500" cy="6" r="2.5" fill="#E11D48" class="core"/>
+</svg>

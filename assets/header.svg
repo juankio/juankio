@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="hdr-t hdr-d">
+  <title id="hdr-t">Juan Miguel Ruiz</title>
+  <desc id="hdr-d">Fullstack Developer · Nuxt 3 · Vue · Node.js</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="wave" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0">
+      <stop offset="0" stop-color="#E11D48" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E11D48"/>
+      <stop offset="1" stop-color="#E11D48" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#30363d"/>
+    </pattern>
+    <clipPath id="reveal">
+      <rect x="60" y="62" width="0" height="72">
+        <animate attributeName="width" values="0;505" keyTimes="0;1" calcMode="spline" keySplines="0.4 0 0.2 1" dur="1.8s" begin="0.3s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <style>
+    .sans { font-family: "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
+    .rise { opacity: 0; animation: rise 0.8s ease forwards; }
+    .ln { opacity: 0; animation: fadein 0.45s ease forwards; }
+    .blink { animation: blink 1s steps(1) infinite; }
+    .trace { stroke-dasharray: 1; stroke-dashoffset: 1; animation: trace 2.6s cubic-bezier(0.4, 0, 0.2, 1) 0.4s forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @keyframes fadein { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes trace { to { stroke-dashoffset: 0; } }
+  </style>
+
+  <rect width="1000" height="260" fill="url(#bg)"/>
+  <rect width="1000" height="260" fill="url(#grid)" opacity="0.35"/>
+
+  <text x="60" y="112" class="sans" font-size="48" font-weight="700" fill="#e6edf3" textLength="500" lengthAdjust="spacingAndGlyphs" clip-path="url(#reveal)">Juan Miguel Ruiz</text>
+  <rect x="60" y="130" width="0" height="3" rx="1.5" fill="#E11D48">
+    <animate attributeName="width" values="0;90" dur="0.6s" begin="2.1s" fill="freeze"/>
+  </rect>
+  <text x="60" y="170" class="sans rise" font-size="19" fill="#8b949e" style="animation-delay: 2.2s">Fullstack Developer · Nuxt 3 · Vue · Node.js</text>
+  <text x="60" y="200" class="sans rise" font-size="14" fill="#6e7681" style="animation-delay: 2.6s">Tecnólogo en Desarrollo de Software · Colombia</text>
+
+  <rect x="620" y="38" width="330" height="184" rx="12" fill="#161b22" stroke="#30363d"/>
+  <line x1="620" y1="70" x2="950" y2="70" stroke="#30363d"/>
+  <circle cx="642" cy="54" r="5" fill="#E11D48"/>
+  <circle cx="660" cy="54" r="5" fill="#484f58"/>
+  <circle cx="678" cy="54" r="5" fill="#484f58"/>
+  <text x="644" y="100" class="mono ln" font-size="14" fill="#c9d1d9" style="animation-delay: 0.5s"><tspan fill="#E11D48">$</tspan> whoami</text>
+  <text x="644" y="126" class="mono ln" font-size="14" fill="#c9d1d9" style="animation-delay: 1.0s">fullstack developer</text>
+  <text x="644" y="152" class="mono ln" font-size="14" fill="#c9d1d9" style="animation-delay: 1.6s"><tspan fill="#E11D48">$</tspan> ls ./stack</text>
+  <text x="644" y="178" class="mono ln" font-size="14" fill="#c9d1d9" style="animation-delay: 2.2s">nuxt vue node express mongo</text>
+  <rect x="644" y="192" width="9" height="16" fill="#E11D48" class="blink" style="animation-delay: 2.8s"/>
+
+  <path d="M0 236 Q125 220 250 236 T500 236 T750 236 T1000 236" pathLength="1" fill="none" stroke="url(#wave)" stroke-width="2" class="trace"/>
+</svg>

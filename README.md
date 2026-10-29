@@ -1,14 +1,14 @@
 <div align="center">
 
-# Juan Miguel Ruiz
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Nuxt+3+%7C+Vue+3+%7C+Node.js;Construyendo+productos+web+reales)
+<img src="assets/header.svg" width="100%" alt="Juan Miguel Ruiz — Fullstack Developer · Nuxt 3 · Vue · Node.js">
 
 Tecnólogo en Desarrollo de Software · Estudiante de Ingeniería de Sistemas · Colombia
 
+*Construyendo productos web reales*
+
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## Sobre mí
 
@@ -17,7 +17,7 @@ Tecnólogo en Desarrollo de Software · Estudiante de Ingeniería de Sistemas ·
 - Proyectos desplegados: un juego multijugador en tiempo real, una plataforma de reservas y un sistema de gestión contable.
 - Base: Colombia.
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## Stack
 
@@ -47,7 +47,7 @@ Tecnólogo en Desarrollo de Software · Estudiante de Ingeniería de Sistemas ·
 [![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## Proyectos destacados
 
@@ -75,7 +75,7 @@ Vue.
 
 [Demo](https://simulador-esp32.vercel.app) · [Repositorio](https://github.com/juankio/simulador-esp32)
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## GitHub Stats
 
@@ -83,9 +83,15 @@ Vue.
 
 ![Contribuciones](https://raw.githubusercontent.com/juankio/juankio/output/snake.svg)
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## Contacto
 
 [![Email](https://img.shields.io/badge/Email-juanmiguelruizsupe%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanmiguelruizsupe@gmail.com)
 [![Web](https://img.shields.io/badge/Web-juanmiguelruiz.lat-E11D48?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juanmiguelruiz.lat)
+
+<div align="center">
+
+<img src="assets/footer.svg" width="100%" alt="Gracias por pasar">
+
+</div>
