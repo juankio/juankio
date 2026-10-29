@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(max-width: 700px)" srcset="assets/header.svg">
-  <img src="assets/header-wide.svg" width="100%" alt="Juan Miguel Ruiz, desarrollador web">
-</picture>
+<picture><source media="(max-width: 700px)" srcset="assets/header.svg"><img src="assets/header-wide.svg" width="100%" alt="Juan Miguel Ruiz, desarrollador web"></picture>
 
 *Construyendo productos reales*
 

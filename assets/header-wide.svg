@@ -1,22 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1537" height="420" viewBox="0 0 1537 420" role="img" aria-labelledby="hdr-t hdr-d">
+<svg xmlns="http://www.w3.org/2000/svg" width="1537" height="492" viewBox="0 0 1537 492" role="img" aria-labelledby="hdr-t hdr-d">
   <title id="hdr-t">Juan Miguel Ruiz</title>
   <desc id="hdr-d">Fullstack Developer · Desarrollo web integral</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="1" stop-color="#161b22"/>
+      <stop offset="0" stop-color="#0d1117" />
+      <stop offset="1" stop-color="#161b22" />
     </linearGradient>
     <linearGradient id="wave" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1537" y2="0">
-      <stop offset="0" stop-color="#E11D48" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#E11D48"/>
-      <stop offset="1" stop-color="#E11D48" stop-opacity="0"/>
+      <stop offset="0" stop-color="#E11D48" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#E11D48" />
+      <stop offset="1" stop-color="#E11D48" stop-opacity="0" />
     </linearGradient>
-    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.1" fill="#30363d"/>
+    <pattern id="grid" width="36.888" height="36.888" patternUnits="userSpaceOnUse">
+      <circle cx="3.074" cy="3.074" r="1.537" fill="#30363d" />
     </pattern>
     <clipPath id="reveal">
-      <rect x="70" y="78" width="0" height="96">
-        <animate attributeName="width" values="0;720" keyTimes="0;1" calcMode="spline" keySplines="0.4 0 0.2 1" dur="0.6s" begin="0s" fill="freeze"/>
+      <rect x="92.22" y="95.294" width="0" height="110.664">
+        <animate attributeName="width" values="0;776.185" keyTimes="0;1" calcMode="spline" keySplines="0.4 0 0.2 1" dur="0.6s" begin="0s" fill="freeze" />
       </rect>
     </clipPath>
   </defs>
@@ -33,29 +33,30 @@
     @keyframes trace { to { stroke-dashoffset: 0; } }
   </style>
 
-  <rect width="1537" height="420" fill="url(#bg)"/>
-  <rect width="1537" height="420" fill="url(#grid)" opacity="0.35"/>
+  <rect width="1537" height="492" fill="url(#bg)"/>
+  <rect width="1537" height="492" fill="url(#grid)" opacity="0.35"/>
 
-  <text x="80" y="150" class="sans" font-size="86" font-weight="700" fill="#e6edf3" textLength="700" lengthAdjust="spacingAndGlyphs" clip-path="url(#reveal)">Juan Miguel Ruiz</text>
-  <rect x="80" y="172" width="0" height="6" rx="3" fill="#E11D48">
-    <animate attributeName="width" values="0;170" keyTimes="0;1" calcMode="spline" keySplines="0.4 0 0.2 1" dur="0.4s" begin="0.6s" fill="freeze"/>
+  <text x="92.22" y="172.144" class="sans" font-size="85" font-weight="700" fill="#e6edf3" textLength="768.5" lengthAdjust="spacingAndGlyphs" clip-path="url(#reveal)">Juan Miguel Ruiz</text>
+  <rect x="92.22" y="199.81" width="0" height="4.611" rx="2.305" fill="#E11D48">
+    <animate attributeName="width" values="0;138.33" keyTimes="0;1" calcMode="spline" keySplines="0.4 0 0.2 1" dur="0.4s" begin="0.6s" fill="freeze" />
   </rect>
-  <text x="80" y="232" class="sans rise" font-size="36" fill="#8b949e" style="animation-delay: 0.45s">Fullstack Developer</text>
-  <text x="80" y="276" class="sans rise" font-size="36" fill="#8b949e" style="animation-delay: 0.45s">Desarrollo web integral</text>
-  <text x="80" y="320" class="sans rise" font-size="36" fill="#6e7681" style="animation-delay: 0.6s">Tecnólogo en Desarrollo de Software</text>
+  <text x="92.22" y="276.66" class="sans rise" font-size="36" fill="#8b949e" style="animation-delay: 0.45s">Fullstack Developer</text>
+  <text x="92.22" y="331.992" class="sans rise" font-size="36" fill="#8b949e" style="animation-delay: 0.45s">Desarrollo web integral</text>
+  <text x="92.22" y="396.546" class="sans rise" font-size="36" fill="#6e7681" style="animation-delay: 0.6s">Tecnólogo en Desarrollo</text>
+  <text x="92.22" y="451.878" class="sans rise" font-size="36" fill="#6e7681" style="animation-delay: 0.6s">de Software</text>
 
-  <rect x="1000" y="40" width="460" height="340" rx="16" fill="#161b22" stroke="#30363d"/>
-  <line x1="1000" y1="88" x2="1460" y2="88" stroke="#30363d"/>
-  <circle cx="1028" cy="64" r="7" fill="#E11D48"/>
-  <circle cx="1054" cy="64" r="7" fill="#484f58"/>
-  <circle cx="1080" cy="64" r="7" fill="#484f58"/>
-  <text x="1026" y="136" class="mono ln" font-size="32" fill="#c9d1d9" style="animation-delay: 0.3s"><tspan fill="#E11D48">$</tspan> whoami</text>
-  <text x="1026" y="178" class="mono ln" font-size="32" fill="#c9d1d9" style="animation-delay: 0.36s">fullstack</text>
-  <text x="1026" y="220" class="mono ln" font-size="32" fill="#c9d1d9" style="animation-delay: 0.42s">developer</text>
-  <text x="1026" y="262" class="mono ln" font-size="32" fill="#c9d1d9" style="animation-delay: 0.48s"><tspan fill="#E11D48">$</tspan> ls ./proyectos</text>
-  <text x="1026" y="304" class="mono ln" font-size="32" fill="#c9d1d9" style="animation-delay: 0.54s">4 desplegados</text>
-  <text x="1026" y="346" class="mono ln" font-size="32" fill="#c9d1d9" style="animation-delay: 0.6s">ver abajo</text>
-  <rect x="1210" y="324" width="18" height="26" fill="#E11D48" class="blink" style="animation-delay: 0.9s"/>
+  <rect x="928.348" y="33.814" width="522.58" height="424.212" rx="18.444" fill="#161b22" stroke="#30363d" />
+  <line x1="928.348" y1="82.998" x2="1450.928" y2="82.998" stroke="#30363d" />
+  <circle cx="962.162" cy="58.406" r="7.685" fill="#E11D48" />
+  <circle cx="989.828" cy="58.406" r="7.685" fill="#484f58" />
+  <circle cx="1017.494" cy="58.406" r="7.685" fill="#484f58" />
+  <text x="959.088" y="138.33" class="mono ln" font-size="36" fill="#c9d1d9" style="animation-delay: 0.3s"><tspan fill="#E11D48">$</tspan> whoami</text>
+  <text x="959.088" y="193.662" class="mono ln" font-size="36" fill="#c9d1d9" style="animation-delay: 0.36s">fullstack</text>
+  <text x="959.088" y="248.994" class="mono ln" font-size="36" fill="#c9d1d9" style="animation-delay: 0.42s">developer</text>
+  <text x="959.088" y="304.326" class="mono ln" font-size="33" fill="#c9d1d9" style="animation-delay: 0.48s"><tspan fill="#E11D48">$</tspan> ls ./proyectos</text>
+  <text x="959.088" y="359.658" class="mono ln" font-size="36" fill="#c9d1d9" style="animation-delay: 0.54s">4 desplegados</text>
+  <text x="959.088" y="414.99" class="mono ln" font-size="36" fill="#c9d1d9" style="animation-delay: 0.6s">ver abajo</text>
+  <rect x="1269.562" y="381.176" width="24.592" height="36.888" fill="#E11D48" class="blink" style="animation-delay: 0.9s" />
 
-  <path d="M0 396 Q192 376 384 396 T768 396 T1152 396 T1536 396" pathLength="1" fill="none" stroke="url(#wave)" stroke-width="2.5" class="trace"/>
+  <path d="M 0 467.248 Q 192.125 448.804 384.25 467.248 T 768.5 467.248 T 1152.75 467.248 T 1537 467.248" pathLength="1" fill="none" stroke="url(#wave)" stroke-width="2" class="trace" />
 </svg>
